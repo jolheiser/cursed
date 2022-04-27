@@ -1,8 +1,9 @@
 package cursed
 
 import (
-	"github.com/matryer/is"
 	"testing"
+
+	"github.com/matryer/is"
 )
 
 func TestTernary(t *testing.T) {
